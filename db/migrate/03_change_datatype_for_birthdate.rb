@@ -1,1 +1,7 @@
-class ChangeDatatypeForBirthdate < ActiveRecord::Migrate[5.2]
+class ChangeDatatypeForBirthdate < ActiveRecord::Migration[5.2]
+  
+  def change
+    
+  end
+  
+end
